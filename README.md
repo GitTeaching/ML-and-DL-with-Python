@@ -12,3 +12,5 @@ EDA, preprocessing, and modelling. Different ML &amp; DL projects.
 - Tracking Social Media Discourse About the COVID-19 Pandemic: Development of a Public Coronavirus Twitter Data Set : https://publichealth.jmir.org/2020/2/e19273/
 
 - Social media in times of crisis: Learning from Hurricane Harvey for the coronavirus disease 2019 pandemic response : https://journals.sagepub.com/doi/pdf/10.1177/0268396220929258
+
+- World leaders’ usage of Twitter in response to the COVID-19 pandemic: a content analysis : https://academic.oup.com/jpubhealth/article/42/3/510/5822639
