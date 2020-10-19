@@ -5,6 +5,8 @@ EDA, preprocessing, and modelling. Different ML &amp; DL projects.
 
 - Twitter discussions and emotions about COVID-19 pandemic: a machine learning approach : https://arxiv.org/ftp/arxiv/papers/2005/2005.12830.pdf
 
+- Public discourse and sentiment during the COVID-19 pandemic: using Latent Dirichlet Allocation for topic modeling on Twitter : https://arxiv.org/ftp/arxiv/papers/2005/2005.08817.pdf
+
 - Top Concerns of Tweeters During the COVID-19 Pandemic: Infoveillance Study : https://www.jmir.org/2020/4/e19016/
 
 - GeoCoV19: A Dataset of Hundreds of Millions of Multilingual COVID-19 Tweets with Location Information : https://arxiv.org/abs/2005.11177 & https://crisisnlp.qcri.org/
