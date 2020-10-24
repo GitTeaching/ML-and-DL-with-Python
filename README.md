@@ -1,7 +1,7 @@
 # Machine Learning and Deep Learning with Python
 EDA, preprocessing, and modelling. Different ML &amp; DL projects.
 
-### Tracking Twitter Discourse About the COVID-19 Pandemic - Tweet Classification - Papers:
+## Tracking Twitter Discourse About the COVID-19 Pandemic - Tweet Classification - Papers:
 
 - Twitter discussions and emotions about COVID-19 pandemic: a machine learning approach : https://arxiv.org/ftp/arxiv/papers/2005/2005.12830.pdf
 
